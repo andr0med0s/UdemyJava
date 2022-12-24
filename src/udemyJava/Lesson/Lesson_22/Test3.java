@@ -18,7 +18,7 @@ public class Test3 {
     }
 }
 
-class Employee {
+class Employee extends java.lang.Object {
     double salary = 100;
     String name;
     int age;
