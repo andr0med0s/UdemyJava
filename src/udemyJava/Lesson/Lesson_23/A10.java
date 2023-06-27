@@ -22,7 +22,7 @@ class B10 extends A10 {
     //    String s2 = super.s1 + " ,drug";
 //    String s1 = super.s1 + " ,drug";
 //    boolean s1 = true;
-    //static String s1 = super.s1; статической переменной нельзя назначить переменнуюкоторая связана с созданием объекта
+    //static String s1 = super.s1; статической переменной нельзя назначить переменную которая связана с созданием объекта
     String s1 = super.s1;
     double d1 = super.d1;  // с помощь. объекта можно обратиться к статической переменной
 

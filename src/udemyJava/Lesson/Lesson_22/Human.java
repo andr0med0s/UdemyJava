@@ -27,7 +27,7 @@ public class Human {                    //private -- видимость толь
 public class Human {
     String name = "Kolz";  //меняем private на default
 
-    static int salary = 150;  // default модификатор доступа разрещает видеть элементы в том же пакете,
+    static int salary = 150;  // default модификатор доступа разре ает видеть элементы в том же пакете,
                                 // в классах того же пакета, но не в классах другого пакета
 
     void work() {

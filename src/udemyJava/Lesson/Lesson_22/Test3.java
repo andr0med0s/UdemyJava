@@ -60,10 +60,7 @@ class Doctor extends Employee {
         System.out.println("Лечить");
     }
 
-    class Xirurg extends Doctor{
-        String skalpel;
-        void operaciya(){}
-    }
+
 
     class Dantist extends Doctor{
         String skallpel;
