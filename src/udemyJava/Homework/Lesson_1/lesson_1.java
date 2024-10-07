@@ -1,4 +1,4 @@
-package udemyJava.Homework.Lesson_1;
+package Homework.Lesson_1;
 
 public class lesson_1 {
     public static void main(String[] args) {
